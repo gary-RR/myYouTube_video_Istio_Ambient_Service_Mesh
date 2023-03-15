@@ -1,1 +1,1 @@
-# myYouTube_video_Istio_Ambient_Service_Mesh
+# These are the scripts for my Istio Ambeint Service Mesh video: https://youtu.be/WPLVvwPGJvw
